@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diffghjkl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 Email：diffghjkl@163.com
+- 👀 Blog: https://blog.dmoe.top/
+- 🌱 API: https://api.mluk.cn/
+- 📫 Email: diffghjkl@163.com
 
 <!---
 diffghjkl/diffghjkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

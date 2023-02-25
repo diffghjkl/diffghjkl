@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diffghjkl
 - 👀 Blog: https://blog.dmoe.top/
-- 🌱 API: https://api.mluk.cn/
+- 🌱 Alist: https://alist.dmoe.top/
 - 📫 Email: diffghjkl@163.com
 
 <!---
